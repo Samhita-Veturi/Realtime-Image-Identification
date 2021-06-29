@@ -1,0 +1,35 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 10px 10px 10px 20px gray;
+}
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 10px beige;
+}
+.HD_2{
+    font-size: 23px;
+}
+canvas{
+    border: dashed 5px black;
+    margin-top: 100px;
+}
+.Para_Tag{
+    font-size: 20px;
+}
+#Footer{
+    background: gray;
+    color: white;
+    position: sticky;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 500px;
+    font-family: 'Comfortaa', cursive;
+    bottom: 0;
+}
